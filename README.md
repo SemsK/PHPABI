@@ -4,7 +4,6 @@
 Développement en couches MVC<br><br>
 
 <strong>Réalisation du projet en méthode AGILE SCRUM</strong> <br><br>
-Equipe de 3 développeurs <a href="https://github.com/nguignard">@nguignard</a>, <a href="https://github.com/semsk">@SemsK</a>, <a href="https://github.com/cyroul82">@cyroul82</a><br>
 
 Le Product Owner et le Scrum Master étant des membres du centre
 <br>
