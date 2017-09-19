@@ -13,7 +13,7 @@ Sprint de 1 semaine:<br>
 User stories effectuées durant ce sprint : <br>
 
 <ul>
-  <li>Connexion d'un utilisateur avec des droits (DB Mysql trés succincte mais suffisante pour la réalisation du projet).</li>
+  <li>Connexion d'un utilisateur avec des droits (DB Mysql très succinct mais suffisant pour la réalisation du projet).</li>
   <li>Ajout de nouveau clients et de contacts associés.</li>
   <li>Liste des clients</li>
   <li>Mise à jour des clients</li>
